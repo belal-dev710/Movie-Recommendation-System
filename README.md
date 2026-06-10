@@ -1,2 +1,13 @@
-# Movie-Recommendation-System
-Python Movie Recommendation System using Machine Learning and Cosine Similarity
+# Movie Recommendation System
+
+A content-based movie recommendation system built using Python.
+
+Technologies:
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- CountVectorizer
+- Cosine Similarity
+
+Author: Belal Osama Salama
